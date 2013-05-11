@@ -1,0 +1,32 @@
+{
+  "name": "telekom_sdk",
+  "description": "Telekom developergarden API Client",
+  "version": "0.0.1beta1-pre",
+  "author": "Grischa Andreew <ga@andreew.ag>",
+  "contributors": [
+    "Grischa Andreew <ga@grischaandreew.de>"
+  ],
+  "main": "index",
+  "keywords": [
+    "telekom",
+    "developergarden",
+    "api",
+    "rest",
+    "restful"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/grischaandreew/node-telekom_sdk"
+  },
+  "engines": {
+    "node": ">= 0.5.0"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/grischaandreew/node-telekom_sdk/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "BSD"
+}
