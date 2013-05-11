@@ -1,7 +1,7 @@
 {
   "name": "telekom_sdk",
   "description": "Telekom developergarden API Client",
-  "version": "0.0.1beta1-pre",
+  "version": "0.0.1",
   "author": "Grischa Andreew <ga@andreew.ag>",
   "contributors": [
     "Grischa Andreew <ga@grischaandreew.de>"
