@@ -6,7 +6,7 @@
   "contributors": [
     "Grischa Andreew <ga@grischaandreew.de>"
   ],
-  "main": "index",
+  "main": "library.js",
   "keywords": [
     "telekom",
     "developergarden",
